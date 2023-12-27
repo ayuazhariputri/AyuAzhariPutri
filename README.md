@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://3.bp.blogspot.com/_UbL54javSZE/TGoPw84f0hI/AAAAAAAABFI/yK7niEZ-UaM/s1600/hamdiet.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuazhariputri&label=Profile%20views&color=0e75b6&style=flat" alt="ayuazhariputri" /> </p>
 
-- 👨‍💻 All of my projects are available at [bit.ly/PortfolioAyuAP](bit.ly/PortfolioAyuAP)
+- 👨‍💻 All of my projects are available at [bit.ly/PortofolioAyuAP](bit.ly/PortfolioAyuAP)
 
 - ⚡ Fun fact **I think i am funny:)**
 
